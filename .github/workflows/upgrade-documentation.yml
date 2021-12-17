@@ -2,8 +2,6 @@ name: Upgrade documentation (Wiki + README.md)
 on: 
   workflow_dispatch:
   push:
-    tags-ignore:
-      - v*.*
 
 jobs:
   upgrade-documentation:
