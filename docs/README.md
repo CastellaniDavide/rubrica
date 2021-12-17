@@ -5,7 +5,7 @@
 
 ##  Description 
 Rubrica salvata in JSON e relativo programma per l'estrapolazione dei dati
-![CastellaniDavide/rubrica](https://opengraph.githubassets.com/9bd63c12e19a3b67222595381c28e789f0afd80256f9ac3afbc6b34f062f81b7/CastellaniDavide/rubrica)
+![CastellaniDavide/rubrica](https://opengraph.githubassets.com/b28d336f6e875293a2e20a9327c8ca8e5ee7f3378998ba9a29990ae126673529/CastellaniDavide/rubrica)
 ##  Directory structure 
 
 ```
@@ -28,8 +28,12 @@ Rubrica salvata in JSON e relativo programma per l'estrapolazione dei dati
 Rubrica salvata in JSON e relativo programma per l'estrapolazione dei dati
 
 - [ Changelog ](#changelog)
+  - [[01.03] - 2021-12-17](#0103---2021-12-17)
   - [[01.02] - 2021-12-17](#0102---2021-12-17)
   - [[01.01] - 2021-12-17](#0101---2021-12-17)
+
+### [01.03] - 2021-12-17
+ - Fixed documentation bot
 
 ### [01.02] - 2021-12-17
  - Added addressess to the JSON file
