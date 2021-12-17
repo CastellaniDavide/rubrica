@@ -5,7 +5,7 @@
 
 ##  Description 
 Rubrica salvata in JSON e relativo programma per l'estrapolazione dei dati
-![CastellaniDavide/rubrica](https://opengraph.githubassets.com/b28d336f6e875293a2e20a9327c8ca8e5ee7f3378998ba9a29990ae126673529/CastellaniDavide/rubrica)
+![CastellaniDavide/rubrica](https://opengraph.githubassets.com/0d6c3861c42f7cb1f5ab60c4e2518eee8f6597ca36156377938b078dc83899d5/CastellaniDavide/rubrica)
 ##  Directory structure 
 
 ```
