@@ -1,0 +1,59 @@
+{
+    "version": "01.01",
+    "developers": [
+        "Castellani Davide"
+    ],
+    "license": "GNU GPLv3",
+    "contacts": [
+        {
+            "id": 0,
+            "name": "Davide",
+            "surname": "Castellani",
+            "emails": [
+                {
+                    "address": "test@gmail.com",
+                    "type": "personal"
+                },
+                {
+                    "address": "matricola@studenti.marconiverona.edu.it",
+                    "type": "work"
+                }
+            ],
+            "phone numbers": [
+                {
+                    "number": "123456789",
+                    "type": "personal"
+                },
+                {
+                    "number": "987654321",
+                    "type": "work"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Qualcun",
+            "surname": "Altro",
+            "emails": [
+                {
+                    "address": "qualcun.altro@gmail.com",
+                    "type": "personal"
+                },
+                {
+                    "address": "matricola2@studenti.marconiverona.edu.it",
+                    "type": "work"
+                }
+            ],
+            "phone numbers": [
+                {
+                    "number": "623456789",
+                    "type": "personal"
+                },
+                {
+                    "number": "187654321",
+                    "type": "work"
+                }
+            ]
+        }
+    ]
+}
