@@ -4,36 +4,33 @@
 ![sys.platform supported](https://img.shields.io/badge/OS%20platform%20supported-all-blue?style=flat) 
 
 ##  Description 
-Rubrica salvata in JSON e relativvo programma per l'estrapolazione dei dati
-![CastellaniDavide/rubrica](https://opengraph.githubassets.com/3ca247f941cb6b1937f5e9c5ab058dc955a91144b93917a229d21f956a8a9538/CastellaniDavide/rubrica)
+Rubrica salvata in JSON e relativo programma per l'estrapolazione dei dati
+![CastellaniDavide/rubrica](https://opengraph.githubassets.com/066a8f8d8a2674a3e4e2cf17f8fc9aaa7190dfbb77ce2b83bbe19d4337edf625/CastellaniDavide/rubrica)
 ##  Directory structure 
 
 ```
 
 ├── bin # source code
-│   └── rubrica
-└── docs # documentation
-    ├── CHANGELOG.md
-    ├── CODE_OF_CONDUCT.md
-    ├── LICENSE
-    └── README.md
+│   └── rubrica.py
+├── docs # documentation
+│   ├── CHANGELOG.md
+│   ├── CODE_OF_CONDUCT.md
+│   ├── LICENSE
+│   ├── README.md
+│   └── _config.yml
+└── src
+    └── contacts.json
 
-2 directories, 5 files
+3 directories, 7 files
 ```
 ##  Changelog 
 
-Rubrica salvata in JSON e relativvo programma per l'estrapolazione dei dati
+Rubrica salvata in JSON e relativo programma per l'estrapolazione dei dati
 
 - [ Changelog ](#changelog)
-  - [[10.01.01] - 2021-12-10](#100101---2021-12-10)
-  - [[01.01.01] - 2021-03-04](#010101---2021-03-04)
+  - [[01.01] - 2021-12-17](#0101---2021-12-17)
 
-### [10.01.01] - 2021-12-10
-- [v10-beta (rubrica-rubrica)](https://github.com/rubrica/issues/5)
-  - [Optimize rubrica](https://github.com/rubrica/issues/7)
-  - [Automate documentation creation](https://github.com/rubrica/issues/6)
-
-### [01.01.01] - 2021-03-04
+### [01.01] - 2021-12-17
  - Initial version
 
 ---
