@@ -41,6 +41,13 @@ class rubrica:
 				print(f"\taddress: {email['address']}")
 				print(f"\ttype: {email['type']}")
 				print()
+			print("addresses:")
+			for address in contact["addresses"]:
+				print(f"\taddress: {address['address']}")
+				print(f"\tcity: {address['city']}")
+				print(f"\tcountry: {address['country']}")
+				print(f"\tCAP: {address['CAP']}")
+				print()
 			print()
 		
 		if self.debug: print("Data printed")
