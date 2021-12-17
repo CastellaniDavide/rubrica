@@ -1,14 +1,11 @@
-# rubrica-rubrica
-[![GitHub license](https://img.shields.io/badge/license-GNU-green?style=flat)](https://github.com/rubrica/blob/main/docs/LICENSE)
-![Author](https://img.shields.io/badge/author-DavideC03-green?style=flat)
+# default-template
+[![GitHub license](https://img.shields.io/badge/license-GNU-green?style=flat)](https://github.com/CastellaniDavide/rubrica/blob/main/docs/LICENSE)
+![Author](https://img.shields.io/badge/author-Castellani%20Davide-green?style=flat)
 ![sys.platform supported](https://img.shields.io/badge/OS%20platform%20supported-all-blue?style=flat) 
 
 ##  Description 
 Rubrica salvata in JSON e relativvo programma per l'estrapolazione dei dati
-
-
-This repo is made using createstructure and this template:
-![createstructure/default-template](https://opengraph.githubassets.com/e6c4a2eb3399dda1633a0cc19d2f1a57a9fabefc59601798a855ae20d99ae772/rubrica)
+![CastellaniDavide/rubrica](https://opengraph.githubassets.com/3ca247f941cb6b1937f5e9c5ab058dc955a91144b93917a229d21f956a8a9538/CastellaniDavide/rubrica)
 ##  Directory structure 
 
 ```
@@ -43,5 +40,5 @@ Rubrica salvata in JSON e relativvo programma per l'estrapolazione dei dati
 Made w/ :heart: by Castellani Davide
 
 If you want to contribute you can start with:
-- [Discussion](https://github.com/rubrica/discussions)
-- [Issue](https://github.com/rubrica/issues/new)
+- [Discussion](https://github.com/CastellaniDavide/rubrica/discussions)
+- [Issue](https://github.com/CastellaniDavide/rubrica/issues/new)
